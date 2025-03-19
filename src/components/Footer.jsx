@@ -5,7 +5,7 @@ export class Footer extends Component {
         return (
             <div className='container'>
                 <footer className='text-center'>
-                    Footer
+                    Footersdsadsd
                 </footer>
             </div>
         )
